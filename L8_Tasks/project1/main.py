@@ -1,7 +1,7 @@
-from .calculator import jam
-from .calculator import tafrigh
-from .calculator import zarb
-from .calculator import taghsim
+from calculator import jam
+from calculator import tafrigh
+from calculator import zarb
+from calculator import taghsim
 
 
 
