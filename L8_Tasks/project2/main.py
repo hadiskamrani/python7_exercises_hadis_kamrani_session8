@@ -1,7 +1,7 @@
-from .users import create_user
-from .bank.account import create_account
-from .bank.loan import request_loan
-from .bank.card import create_card
+from users import create_user
+from bank.account import create_account
+from bank.loan import request_loan
+from bank.card import create_card
 
 
 create_user
